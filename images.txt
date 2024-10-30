@@ -1,7 +1,7 @@
 nginx
 mysql
 redis
-elasticsearch
+#elasticsearch
 minio/minio
 bitnami/kafka
 #支持私库
